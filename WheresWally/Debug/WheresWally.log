@@ -1,0 +1,16 @@
+﻿  Source.cpp
+h:\desktop\documents\university\computer science\second year\object-orientated programming\assignment\whereswally\whereswally\large_image.h(23): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  h:\desktop\documents\university\computer science\second year\object-orientated programming\assignment\whereswally\whereswally\large_image.h(23): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+h:\desktop\documents\university\computer science\second year\object-orientated programming\assignment\whereswally\whereswally\ref_image.h(19): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  h:\desktop\documents\university\computer science\second year\object-orientated programming\assignment\whereswally\whereswally\ref_image.h(19): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+h:\desktop\documents\university\computer science\second year\object-orientated programming\assignment\whereswally\whereswally\source.cpp(77): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+h:\desktop\documents\university\computer science\second year\object-orientated programming\assignment\whereswally\whereswally\source.cpp(78): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  WheresWally.vcxproj -> H:\Desktop\Documents\University\Computer Science\Second Year\Object-Orientated Programming\Assignment\WheresWally\Debug\WheresWally.exe

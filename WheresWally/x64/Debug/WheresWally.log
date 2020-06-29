@@ -1,0 +1,14 @@
+﻿  Base_Image.cpp
+  Large_Image.cpp
+h:\desktop\documents\university\computer science\second year\object-orientated programming\assignment\whereswally\whereswally\large_image.h(11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  h:\desktop\documents\university\computer science\second year\object-orientated programming\assignment\whereswally\whereswally\large_image.h(11): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Ref_Image.cpp
+h:\desktop\documents\university\computer science\second year\object-orientated programming\assignment\whereswally\whereswally\ref_image.h(11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  h:\desktop\documents\university\computer science\second year\object-orientated programming\assignment\whereswally\whereswally\ref_image.h(11): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Source.cpp
+h:\desktop\documents\university\computer science\second year\object-orientated programming\assignment\whereswally\whereswally\large_image.h(11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  h:\desktop\documents\university\computer science\second year\object-orientated programming\assignment\whereswally\whereswally\large_image.h(11): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+h:\desktop\documents\university\computer science\second year\object-orientated programming\assignment\whereswally\whereswally\ref_image.h(11): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  h:\desktop\documents\university\computer science\second year\object-orientated programming\assignment\whereswally\whereswally\ref_image.h(11): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Generating Code...
+  WheresWally.vcxproj -> H:\Desktop\Documents\University\Computer Science\Second Year\Object-Orientated Programming\Assignment\WheresWally\x64\Debug\WheresWally.exe
